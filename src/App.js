@@ -10,7 +10,7 @@ function App() {
           THis is the  <code>CI-CD</code> Demo Projects
         </p>
 
-          Learn React
+          Learn more on React CI/CD Pipeline
       </header>
     </div>
   );
